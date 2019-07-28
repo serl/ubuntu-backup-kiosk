@@ -1,0 +1,10 @@
+[client]
+host     = localhost
+user     = $MYSQL_USER
+password = $MYSQL_PASSWORD
+socket   = /var/run/mysqld/mysqld.sock
+[mysql_upgrade]
+host     = localhost
+user     = $MYSQL_USER
+password = $MYSQL_PASSWORD
+socket   = /var/run/mysqld/mysqld.sock

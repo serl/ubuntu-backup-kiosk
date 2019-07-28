@@ -1,0 +1,9 @@
+/.env
+
+/data/override/*
+!/data/override/.gitkeep
+
+/data/downloads/*
+!/data/downloads/.gitkeep
+
+/data/site

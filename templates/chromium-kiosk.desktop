@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=sh -c "chromium-browser --kiosk --incognito --no-first-run '$SITE_HOST'; gnome-session-quit --force"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Chromium Kiosk
+Comment=
